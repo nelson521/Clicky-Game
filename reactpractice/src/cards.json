@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1, 
+    "name": "Snow balls",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzUyNmIxYzYtMTM2My00ZTZjLWFmODYtNmFmMDgyZDY4OWU4XkEyXkFqcGdeQXVyNjg0Nzk2Nzc@._V1_UY268_CR147,0,182,268_AL_.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2, 
+    "name": "Squanchy",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/1/1b/Squanchie_squanching_in_the_closet.png/revision/latest/scale-to-width-down/185?cb=20140523065109",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Marty",
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_medium/6/66303/4469088-tumblr_inline_n0aleph3fl1r8rr6o.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "The President",
+    "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/the-president-rick-and-morty-68.6.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Pickle Rick",
+    "image": "https://cdn.shopify.com/s/files/1/0342/5665/products/PICKLE-RICK-TEAM_1024x1024.jpg?v=1546320627",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Jessica",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/e/e8/Jessica.png/revision/latest/scale-to-width-down/310?cb=20150706222334",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Bird Person",
+    "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/birdperson-rick-and-morty-3.59.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Unity",
+    "image": "https://hobbydb-production.s3.amazonaws.com/processed_uploads/subject_photo/subject_photo/image/37008/1518460561-29733-1441/unity-rick-and-morty-58.2_large.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Jerry Smith",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/f/f1/Jerry_Smith.png/revision/latest?cb=20160923151111",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Blim Blam",
+    "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/blim-blam-rick-and-morty-1.89.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Fart",
+    "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/fart-rick-and-morty-6.63.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Brad",
+    "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/brad-rick-and-morty-4.24.jpg",
+    "clicked": false
+  }
+    
+  
+
+
+  
+
+]

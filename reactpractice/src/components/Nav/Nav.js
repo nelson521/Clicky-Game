@@ -1,24 +1,28 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 
 class Nav extends Component {
   render() {
     return (
-      <nav className="navbar">
-        <ul>
-          <li>
-            <a class="navbar-brand" href="/">Rick and Morty</a>
-          </li>
-          <li>
-            
-          </li>
-        </ul>
-      </nav>
+
+      <div className="navbar navbar-light bg-info">
+        <div className="col-sm-4">
+          <a href="/">Rick and Morty</a>
+        </div>
+        <div className="col-sm-4">
+          <p>Click an image to begin!</p>
+        </div>
+        <div className="col-sm-4">
+          <p>Score: 0 | Top Score: 0</p>
+        </div>
+      </div>
+
+
     )
   }
-  
-    
-  
+
+
+
 }
 
 export default Nav; 

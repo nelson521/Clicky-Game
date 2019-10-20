@@ -32,4 +32,17 @@ class NavMessage extends Component{
         return 'Click a image.'
     }
   }
+
+  render() {
+    return(
+      <li
+      className={this.state.animating ? this.state.message : ""}
+      onAnimationEnd={() => this.setState({animating: false})}
+      >
+        {this.renderMessage()}
+      </li>
+    )
+  }
 }
+
+export default NavMessage; 
